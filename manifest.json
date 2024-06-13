@@ -1,11 +1,11 @@
 {
-    "name": "dvi",
-    "short_name": "dvi",
+    "name": "digital_voucher_indonesia",
+    "short_name": "digital_voucher_indonesia",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "voucher",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
