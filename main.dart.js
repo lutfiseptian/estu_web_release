@@ -9162,7 +9162,7 @@ s=J.atM(10,m)
 for(r=0;r<10;r=q){q=r+1
 s[r]="Item "+q}n=A.No()
 m=$.b6()
-return new A.QY(j,s,n,A.ci(m,A.iW(),t.d),A.ci(m,A.kL(),t.ZR),["assets/images/banner_xl.jpg","assets/images/banner_shoppe.png","assets/images/banner_listrik.jpg","assets/images/banner_gopay.jpg","assets/images/banner_smart.jpg"],B.l)},
+return new A.QY(j,s,n,A.ci(m,A.iW(),t.d),A.ci(m,A.kL(),t.ZR),["assets/images/banner_xl.jpg","assets/images/banner_shoppe.png","assets/images/banner_listrik.jpg","assets/images/banner_gopay.jpg","assets/images/banner_smart.jpg","assets/images/banner_aov.jpg","assets/images/banner_wot.jpg"],B.l)},
 aDC(){var s,r=null,q=$.b6()
 if(A.atC(q)!=null){s=A.aL(10)
 A.atr(q,A.oo(r,B.H,r,A.dk(new A.ak(B.iB,A.aM(A.a([A.ae("Mohon Tunggu",r,r,r,A.bh(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.B(r,10,r),A.e8("assets/images/loading_kase.png",r,B.l7,200,200)],t.p),B.n,B.i,B.ak),r),r,r,new A.bv(s,B.q)),r,0,r,r,r),!1,r,!1,t.z)}},
